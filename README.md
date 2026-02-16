@@ -1,4 +1,4 @@
-##CONTROL REMOTO MAGICO Diego Ortiz - Brandon Peña - Julio Mayorquin 
+# CONTROL REMOTO MAGICO Diego Ortiz - Brandon Peña - Julio Mayorquin 
 ## Patrón de Diseño 
 - **Categoría:** Comportamiento
 - **Patrón Utilizado:** Command
