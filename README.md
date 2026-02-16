@@ -1,8 +1,4 @@
-# DOSW_Lab2_challenge7
-Codigo completo del reto 7 control magico laboratorio 2-3
-# RETO #7: El control remoto Mágico
-
-## Patrón de Diseño
+## Patrón de Diseño Diego Ortiz - Brandon Peña - Julio Mayorquin
 - **Categoría:** Comportamiento
 - **Patrón Utilizado:** Command
 
